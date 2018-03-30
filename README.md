@@ -1,2 +1,6 @@
 # hello-world
-Just a starter repository
+
+Hi Humans!
+
+This is just a starter repository
+Coding is fun! Bleep bloop.
